@@ -1271,30 +1271,30 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tarojs/api@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/api/download/@tarojs/api-3.2.14.tgz#e01bb5dc3810f8d4f9f491470757ba891dd7fa5f"
-  integrity sha1-4Bu13DgQ+NT59JFHB1e6iR3X+l8=
+"@tarojs/api@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/api/download/@tarojs/api-3.2.15.tgz#237fc039a4f32aa466d85ed235d94b3dfa4e4b36"
+  integrity sha1-I3/AOaTzKqRm2F7SNdlLPfpOSzY=
   dependencies:
-    "@tarojs/runtime" "3.2.14"
+    "@tarojs/runtime" "3.2.15"
 
-"@tarojs/cli@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/cli/download/@tarojs/cli-3.2.14.tgz#037e03a6f82bc8991567b3b1bd87f2a2eebf9347"
-  integrity sha1-A34DpvgryJkVZ7OxvYfyou6/k0c=
+"@tarojs/cli@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/cli/download/@tarojs/cli-3.2.15.tgz#b6234791a94553299c211b00c7f4a2611a4cf364"
+  integrity sha1-tiNHkalFUymcIRsAx/SiYRpM82Q=
   dependencies:
     "@hapi/joi" "17.1.1"
-    "@tarojs/helper" "3.2.14"
-    "@tarojs/plugin-platform-alipay" "3.2.14"
-    "@tarojs/plugin-platform-jd" "3.2.14"
-    "@tarojs/plugin-platform-qq" "3.2.14"
-    "@tarojs/plugin-platform-swan" "3.2.14"
-    "@tarojs/plugin-platform-tt" "3.2.14"
-    "@tarojs/plugin-platform-weapp" "3.2.14"
-    "@tarojs/service" "3.2.14"
-    "@tarojs/shared" "3.2.14"
-    "@tarojs/taro" "3.2.14"
-    "@tarojs/taroize" "3.2.14"
+    "@tarojs/helper" "3.2.15"
+    "@tarojs/plugin-platform-alipay" "3.2.15"
+    "@tarojs/plugin-platform-jd" "3.2.15"
+    "@tarojs/plugin-platform-qq" "3.2.15"
+    "@tarojs/plugin-platform-swan" "3.2.15"
+    "@tarojs/plugin-platform-tt" "3.2.15"
+    "@tarojs/plugin-platform-weapp" "3.2.15"
+    "@tarojs/service" "3.2.15"
+    "@tarojs/shared" "3.2.15"
+    "@tarojs/taro" "3.2.15"
+    "@tarojs/taroize" "3.2.15"
     "@tarojs/transformer-wx" "^2.0.4"
     "@types/request" "^2.48.1"
     "@typescript-eslint/parser" "^4.15.1"
@@ -1320,11 +1320,11 @@
     ejs "^2.6.1"
     envinfo "^6.0.1"
     eslint "^6.1.0"
-    eslint-config-taro "3.2.14"
+    eslint-config-taro "3.2.15"
     eslint-plugin-import "^2.8.0"
     eslint-plugin-react "^7.4.0"
     eslint-plugin-react-hooks "^1.6.1"
-    eslint-plugin-taro "3.2.14"
+    eslint-plugin-taro "3.2.15"
     eslint-plugin-vue "^6.2.2"
     fbjs "^1.0.0"
     find-yarn-workspace-root "1.2.1"
@@ -1347,7 +1347,7 @@
     postcss-modules-resolve-imports "^1.3.0"
     postcss-modules-scope "^1.1.0"
     postcss-modules-values "^1.3.0"
-    postcss-pxtransform "3.2.14"
+    postcss-pxtransform "3.2.15"
     postcss-reporter "^6.0.1"
     postcss-taro-unit-transform "1.2.15"
     postcss-url "^7.3.2"
@@ -1367,13 +1367,13 @@
     xml2js "^0.4.19"
     xxhashjs "^0.2.2"
 
-"@tarojs/components@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/components/download/@tarojs/components-3.2.14.tgz#8ef6315b36817e671aa238304debfde9aee516e3"
-  integrity sha1-jvYxWzaBfmcaojgwTev96a7lFuM=
+"@tarojs/components@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/components/download/@tarojs/components-3.2.15.tgz#63ccdd833811c9de02025a06e4ea2a5f13c6950e"
+  integrity sha1-Y8zdgzgRyd4CAloG5OoqXxPGlQ4=
   dependencies:
     "@stencil/core" "2.4.0"
-    "@tarojs/taro" "3.2.14"
+    "@tarojs/taro" "3.2.15"
     better-scroll "^1.14.1"
     classnames "^2.2.5"
     intersection-observer "^0.7.0"
@@ -1382,10 +1382,10 @@
     swiper "4.4.2"
     weui "^1.1.2"
 
-"@tarojs/helper@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/helper/download/@tarojs/helper-3.2.14.tgz#a63fdd19c612791e023ed819ad0d49c29616f288"
-  integrity sha1-pj/dGcYSeR4CPtgZrQ1JwpYW8og=
+"@tarojs/helper@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/helper/download/@tarojs/helper-3.2.15.tgz#c07abd739018ea0bde1639ac80dbacf76a5a1284"
+  integrity sha1-wHq9c5AY6gveFjmsgNus92paEoQ=
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "7.10.4"
@@ -1396,7 +1396,7 @@
     "@babel/preset-typescript" "7.12.17"
     "@babel/register" "7.9.0"
     "@babel/runtime" "^7.9.2"
-    "@tarojs/taro" "3.2.14"
+    "@tarojs/taro" "3.2.15"
     chalk "3.0.0"
     chokidar "3.3.1"
     cross-spawn "7.0.3"
@@ -1407,24 +1407,24 @@
     resolve "1.15.1"
     yauzl "2.10.0"
 
-"@tarojs/mini-runner@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/mini-runner/download/@tarojs/mini-runner-3.2.14.tgz#16a5dbb02dccab815d043c45af3bcecf0e8450f2"
-  integrity sha1-FqXbsC3Mq4FdBDxFrzvOzw6EUPI=
+"@tarojs/mini-runner@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/mini-runner/download/@tarojs/mini-runner-3.2.15.tgz#6e6a892e3bec69ee184980be5f36773be1aa8170"
+  integrity sha1-bmqJLjvsae4YSYC+XzZ3O+GqgXA=
   dependencies:
     "@babel/core" "^7.11.1"
-    "@tarojs/helper" "3.2.14"
-    "@tarojs/plugin-platform-alipay" "3.2.14"
-    "@tarojs/plugin-platform-jd" "3.2.14"
-    "@tarojs/plugin-platform-qq" "3.2.14"
-    "@tarojs/plugin-platform-swan" "3.2.14"
-    "@tarojs/plugin-platform-tt" "3.2.14"
-    "@tarojs/plugin-platform-weapp" "3.2.14"
-    "@tarojs/runner-utils" "3.2.14"
-    "@tarojs/runtime" "3.2.14"
-    "@tarojs/shared" "3.2.14"
-    "@tarojs/taro" "3.2.14"
-    "@tarojs/taro-loader" "3.2.14"
+    "@tarojs/helper" "3.2.15"
+    "@tarojs/plugin-platform-alipay" "3.2.15"
+    "@tarojs/plugin-platform-jd" "3.2.15"
+    "@tarojs/plugin-platform-qq" "3.2.15"
+    "@tarojs/plugin-platform-swan" "3.2.15"
+    "@tarojs/plugin-platform-tt" "3.2.15"
+    "@tarojs/plugin-platform-weapp" "3.2.15"
+    "@tarojs/runner-utils" "3.2.15"
+    "@tarojs/runtime" "3.2.15"
+    "@tarojs/shared" "3.2.15"
+    "@tarojs/taro" "3.2.15"
+    "@tarojs/taro-loader" "3.2.15"
     babel-loader "8.2.1"
     copy-webpack-plugin "5.1.2"
     css "2.2.4"
@@ -1447,7 +1447,7 @@
     ora "^3.4.0"
     postcss-import "12.0.1"
     postcss-loader "^3.0.0"
-    postcss-pxtransform "3.2.14"
+    postcss-pxtransform "3.2.15"
     postcss-url "8.0.0"
     regenerator-runtime "0.11"
     request "^2.88.0"
@@ -1467,141 +1467,141 @@
     webpack-format-messages "^2.0.5"
     yauzl "2.10.0"
 
-"@tarojs/plugin-platform-alipay@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/plugin-platform-alipay/download/@tarojs/plugin-platform-alipay-3.2.14.tgz#bbfc4500cd76ffa91cfe9f1735b1e26b8bb176da"
-  integrity sha1-u/xFAM12/6kc/p8XNbHia4uxdto=
+"@tarojs/plugin-platform-alipay@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/plugin-platform-alipay/download/@tarojs/plugin-platform-alipay-3.2.15.tgz#a06e6ee44af4da9181c22610e0f67fc424ba979c"
+  integrity sha1-oG5u5Er02pGBwiYQ4PZ/xCS6l5w=
   dependencies:
-    "@tarojs/components" "3.2.14"
-    "@tarojs/service" "3.2.14"
-    "@tarojs/shared" "3.2.14"
+    "@tarojs/components" "3.2.15"
+    "@tarojs/service" "3.2.15"
+    "@tarojs/shared" "3.2.15"
 
-"@tarojs/plugin-platform-jd@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/plugin-platform-jd/download/@tarojs/plugin-platform-jd-3.2.14.tgz#1637ed1ecb7aa6543775522af4e65915b19fd38a"
-  integrity sha1-FjftHst6plQ3dVIq9OZZFbGf04o=
+"@tarojs/plugin-platform-jd@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/plugin-platform-jd/download/@tarojs/plugin-platform-jd-3.2.15.tgz#419c18e74d64d7631c56349706b397da3926579b"
+  integrity sha1-QZwY501k12McVjSXBrOX2jkmV5s=
   dependencies:
-    "@tarojs/service" "3.2.14"
-    "@tarojs/shared" "3.2.14"
+    "@tarojs/service" "3.2.15"
+    "@tarojs/shared" "3.2.15"
 
-"@tarojs/plugin-platform-qq@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/plugin-platform-qq/download/@tarojs/plugin-platform-qq-3.2.14.tgz#deed56dd872e521f4113bbae7b8ed5984254ab78"
-  integrity sha1-3u1W3YcuUh9BE7uue47VmEJUq3g=
+"@tarojs/plugin-platform-qq@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/plugin-platform-qq/download/@tarojs/plugin-platform-qq-3.2.15.tgz#046a43d99365a11ec8cc71098a296d296efd72cc"
+  integrity sha1-BGpD2ZNloR7IzHEJiiltKW79csw=
   dependencies:
-    "@tarojs/plugin-platform-weapp" "3.2.14"
-    "@tarojs/service" "3.2.14"
-    "@tarojs/shared" "3.2.14"
+    "@tarojs/plugin-platform-weapp" "3.2.15"
+    "@tarojs/service" "3.2.15"
+    "@tarojs/shared" "3.2.15"
 
-"@tarojs/plugin-platform-swan@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/plugin-platform-swan/download/@tarojs/plugin-platform-swan-3.2.14.tgz#88c6757f4d90417f0dc71582f0de9cedabefad45"
-  integrity sha1-iMZ1f02QQX8NxxWC8N6c7avvrUU=
+"@tarojs/plugin-platform-swan@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/plugin-platform-swan/download/@tarojs/plugin-platform-swan-3.2.15.tgz#a0bff0a559cdef34ade3a7d97dad3955fd7cec42"
+  integrity sha1-oL/wpVnN7zSt46fZfa05Vf187EI=
   dependencies:
-    "@tarojs/components" "3.2.14"
-    "@tarojs/service" "3.2.14"
-    "@tarojs/shared" "3.2.14"
+    "@tarojs/components" "3.2.15"
+    "@tarojs/service" "3.2.15"
+    "@tarojs/shared" "3.2.15"
 
-"@tarojs/plugin-platform-tt@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/plugin-platform-tt/download/@tarojs/plugin-platform-tt-3.2.14.tgz#d046cf6529811e0906a10373805186bd44590015"
-  integrity sha1-0EbPZSmBHgkGoQNzgFGGvURZABU=
+"@tarojs/plugin-platform-tt@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/plugin-platform-tt/download/@tarojs/plugin-platform-tt-3.2.15.tgz#7b7bcaa82d5a426c538cc396874ee9585bba1bbe"
+  integrity sha1-e3vKqC1aQmxTjMOWh07pWFu6G74=
   dependencies:
-    "@tarojs/service" "3.2.14"
-    "@tarojs/shared" "3.2.14"
+    "@tarojs/service" "3.2.15"
+    "@tarojs/shared" "3.2.15"
 
-"@tarojs/plugin-platform-weapp@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/plugin-platform-weapp/download/@tarojs/plugin-platform-weapp-3.2.14.tgz#32d40fa4d231da88e11a522e63f4d2b32b0ce7b5"
-  integrity sha1-MtQPpNIx2ojhGlIuY/TSsysM57U=
+"@tarojs/plugin-platform-weapp@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/plugin-platform-weapp/download/@tarojs/plugin-platform-weapp-3.2.15.tgz#68ba0b307f5654e4380df3aea0944a37fe33d288"
+  integrity sha1-aLoLMH9WVOQ4DfOuoJRKN/4z0og=
   dependencies:
-    "@tarojs/components" "3.2.14"
-    "@tarojs/service" "3.2.14"
-    "@tarojs/shared" "3.2.14"
+    "@tarojs/components" "3.2.15"
+    "@tarojs/service" "3.2.15"
+    "@tarojs/shared" "3.2.15"
 
-"@tarojs/router@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/router/download/@tarojs/router-3.2.14.tgz#5e6f62518eeb5f45ab5921206fc58ef64deae690"
-  integrity sha1-Xm9iUY7rX0WrWSEgb8WO9k3q5pA=
+"@tarojs/router@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/router/download/@tarojs/router-3.2.15.tgz#72afd4a50344f1c141c838bdabb223126f39b80f"
+  integrity sha1-cq/UpQNE8cFByDi9q7IjEm85uA8=
   dependencies:
-    "@tarojs/runtime" "3.2.14"
+    "@tarojs/runtime" "3.2.15"
     history "^4.10.1"
     query-string "^6.13.8"
     universal-router "^8.3.0"
     url-parse "^1.4.7"
 
-"@tarojs/runner-utils@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/runner-utils/download/@tarojs/runner-utils-3.2.14.tgz#755853b77ee92a6a42db1ee0990cd1eafaf216bc"
-  integrity sha1-dVhTt37pKmpC2x7gmQzR6vryFrw=
+"@tarojs/runner-utils@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/runner-utils/download/@tarojs/runner-utils-3.2.15.tgz#e8131d13efa01f68f6e6a1276a48df148a361fe9"
+  integrity sha1-6BMdE++gH2j25qEnakjfFIo2H+k=
   dependencies:
-    "@tarojs/helper" "3.2.14"
+    "@tarojs/helper" "3.2.15"
     scss-bundle "^3.0.2"
 
-"@tarojs/runtime@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/runtime/download/@tarojs/runtime-3.2.14.tgz#85038a4820f1196d8f567555be2c32ff351adde9"
-  integrity sha1-hQOKSCDxGW2PVnVVviwy/zUa3ek=
+"@tarojs/runtime@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/runtime/download/@tarojs/runtime-3.2.15.tgz#0b42a71252426feb96fb8fd64cdbedcf33932e24"
+  integrity sha1-C0KnElJCb+uW+4/WTNvtzzOTLiQ=
   dependencies:
-    "@tarojs/shared" "3.2.14"
+    "@tarojs/shared" "3.2.15"
     lodash-es "4.17.15"
 
-"@tarojs/service@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/service/download/@tarojs/service-3.2.14.tgz#6230d6fd19d78ebbc01de79bc144ad610c8685c5"
-  integrity sha1-YjDW/RnXjrvAHeebwUStYQyGhcU=
+"@tarojs/service@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/service/download/@tarojs/service-3.2.15.tgz#9b47d1df68d3f00427d78ff4a92fb1c15c89747c"
+  integrity sha1-m0fR32jT8AQn14/0qS+xwVyJdHw=
   dependencies:
     "@hapi/joi" "17.1.1"
-    "@tarojs/helper" "3.2.14"
-    "@tarojs/shared" "3.2.14"
-    "@tarojs/taro" "3.2.14"
+    "@tarojs/helper" "3.2.15"
+    "@tarojs/shared" "3.2.15"
+    "@tarojs/taro" "3.2.15"
     fs-extra "8.1.0"
     lodash "4.17.20"
     resolve "1.15.1"
     tapable "1.1.3"
 
-"@tarojs/shared@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/shared/download/@tarojs/shared-3.2.14.tgz#0a5195a3f5859dab43f773ec63dd80e25e555004"
-  integrity sha1-ClGVo/WFnatD93PsY92A4l5VUAQ=
+"@tarojs/shared@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/shared/download/@tarojs/shared-3.2.15.tgz#04fd70d30525c27a36e2ccfd698f2b3d64742d83"
+  integrity sha1-BP1w0wUlwno24sz9aY8rPWR0LYM=
 
-"@tarojs/taro-h5@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/taro-h5/download/@tarojs/taro-h5-3.2.14.tgz#774dee0013fff85556b7dc40d5281419a3f12c9b"
-  integrity sha1-d03uABP/+FVWt9xA1SgUGaPxLJs=
+"@tarojs/taro-h5@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/taro-h5/download/@tarojs/taro-h5-3.2.15.tgz#b5343d5139394a6a609aa4acd7f79798fad29bae"
+  integrity sha1-tTQ9UTk5SmpgmqSs1/eXmPrSm64=
   dependencies:
-    "@tarojs/api" "3.2.14"
-    "@tarojs/router" "3.2.14"
-    "@tarojs/runtime" "3.2.14"
+    "@tarojs/api" "3.2.15"
+    "@tarojs/router" "3.2.15"
+    "@tarojs/runtime" "3.2.15"
     base64-js "^1.3.0"
     jsonp-retry "^1.0.3"
     mobile-detect "^1.4.2"
     raf "^3.4.1"
     whatwg-fetch "^3.4.0"
 
-"@tarojs/taro-loader@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/taro-loader/download/@tarojs/taro-loader-3.2.14.tgz#c98f592dfad3b910b6325df1b86a42b1f22d85b0"
-  integrity sha1-yY9ZLfrTuRC2Ml3xuGpCsfIthbA=
+"@tarojs/taro-loader@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/taro-loader/download/@tarojs/taro-loader-3.2.15.tgz#2700c4fddeb92c9da0fd226aec73516f6a6c997c"
+  integrity sha1-JwDE/d65LJ2g/SJq7HNRb2psmXw=
   dependencies:
-    "@tarojs/helper" "3.2.14"
+    "@tarojs/helper" "3.2.15"
     acorn "^8.0.4"
     acorn-walk "^8.0.0"
     loader-utils "^1.2.3"
 
-"@tarojs/taro@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/taro/download/@tarojs/taro-3.2.14.tgz#1d3e0ba31559ae3cea6942e7de4aa0a15aedaac4"
-  integrity sha1-HT4LoxVZrjzqaULn3kqgoVrtqsQ=
+"@tarojs/taro@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/taro/download/@tarojs/taro-3.2.15.tgz#c6072c46edd0e247fc956fa33194e838a056402a"
+  integrity sha1-xgcsRu3Q4kf8lW+jMZToOKBWQCo=
   dependencies:
-    "@tarojs/api" "3.2.14"
-    "@tarojs/runtime" "3.2.14"
-    "@tarojs/taro-h5" "3.2.14"
+    "@tarojs/api" "3.2.15"
+    "@tarojs/runtime" "3.2.15"
+    "@tarojs/taro-h5" "3.2.15"
 
-"@tarojs/taroize@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/taroize/download/@tarojs/taroize-3.2.14.tgz#f81360222e11721b5d7915b8e81246febe90c0d8"
-  integrity sha1-+BNgIi4RchtdeRW46BJG/r6QwNg=
+"@tarojs/taroize@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/taroize/download/@tarojs/taroize-3.2.15.tgz#dcd4e89e6e1c9a07e404bd897394949d9fb5a9ee"
+  integrity sha1-3NTonm4cmgfkBL2Jc5SUnZ+1qe4=
   dependencies:
     "@babel/code-frame" "^7.0.0"
     babel-core "^6.26.3"
@@ -1647,18 +1647,18 @@
     prettier "^1.14.2"
     typescript "^3.2.2"
 
-"@tarojs/webpack-runner@3.2.14":
-  version "3.2.14"
-  resolved "https://registry.nlark.com/@tarojs/webpack-runner/download/@tarojs/webpack-runner-3.2.14.tgz#1b5c059ac5744260bc2636c116ff0c6959a863d7"
-  integrity sha1-G1wFmsV0QmC8JjbBFv8MaVmoY9c=
+"@tarojs/webpack-runner@3.2.15":
+  version "3.2.15"
+  resolved "https://registry.nlark.com/@tarojs/webpack-runner/download/@tarojs/webpack-runner-3.2.15.tgz#01359b91f2ef93c9b269874542cd6d75f8fa4e61"
+  integrity sha1-ATWbkfLvk8myaYdFQs1tdfj6TmE=
   dependencies:
     "@babel/core" "^7.11.1"
     "@pmmmwh/react-refresh-webpack-plugin" "0.4.3"
-    "@tarojs/helper" "3.2.14"
-    "@tarojs/runner-utils" "3.2.14"
-    "@tarojs/runtime" "3.2.14"
-    "@tarojs/shared" "3.2.14"
-    "@tarojs/taro-loader" "3.2.14"
+    "@tarojs/helper" "3.2.15"
+    "@tarojs/runner-utils" "3.2.15"
+    "@tarojs/runtime" "3.2.15"
+    "@tarojs/shared" "3.2.15"
+    "@tarojs/taro-loader" "3.2.15"
     autoprefixer "9.7.4"
     babel-loader "8.2.1"
     copy-webpack-plugin "5.1.1"
@@ -1676,8 +1676,8 @@
     open "7.0.2"
     ora "4.0.3"
     postcss-loader "3.0.0"
-    postcss-plugin-constparse "3.2.14"
-    postcss-pxtransform "3.2.14"
+    postcss-plugin-constparse "3.2.15"
+    postcss-pxtransform "3.2.15"
     react-refresh "0.9.0"
     resolve "1.15.1"
     resolve-url-loader "3.1.1"
@@ -2876,28 +2876,28 @@ babel-plugin-transform-imports-api@^1.0.0:
   dependencies:
     is-invalid-path "^1.0.2"
 
-babel-plugin-transform-react-jsx-to-rn-stylesheet@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/babel-plugin-transform-react-jsx-to-rn-stylesheet/download/babel-plugin-transform-react-jsx-to-rn-stylesheet-3.2.14.tgz#b99729f2876728d92c004e48865f29618236ab3c"
-  integrity sha1-uZcp8odnKNksAE5Ihl8pYYI2qzw=
+babel-plugin-transform-react-jsx-to-rn-stylesheet@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/babel-plugin-transform-react-jsx-to-rn-stylesheet/download/babel-plugin-transform-react-jsx-to-rn-stylesheet-3.2.15.tgz#6e463fba9883dc4a318f0216319dbd19ab46ed4f"
+  integrity sha1-bkY/upiD3EoxjwIWMZ29GatG7U8=
   dependencies:
     camelize "^1.0.0"
-    taro-css-to-react-native "3.2.14"
+    taro-css-to-react-native "3.2.15"
 
 babel-plugin-transform-taroapi@1.3.15:
   version "1.3.15"
   resolved "https://registry.nlark.com/babel-plugin-transform-taroapi/download/babel-plugin-transform-taroapi-1.3.15.tgz#413de3cc47389387bbd36be292d8945d36caf52e"
   integrity sha1-QT3jzEc4k4e702viktiUXTbK9S4=
 
-babel-plugin-transform-taroapi@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/babel-plugin-transform-taroapi/download/babel-plugin-transform-taroapi-3.2.14.tgz#6ba00e827b4fee1f2e7114f97d34d08a1c685fb6"
-  integrity sha1-a6AOgntP7h8ucRT5fTTQihxoX7Y=
+babel-plugin-transform-taroapi@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/babel-plugin-transform-taroapi/download/babel-plugin-transform-taroapi-3.2.15.tgz?cache=0&sync_timestamp=1625647900262&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fbabel-plugin-transform-taroapi%2Fdownload%2Fbabel-plugin-transform-taroapi-3.2.15.tgz#07978151a571568d54db1bc77844b43d9c7cf462"
+  integrity sha1-B5eBUaVxVo1U2xvHeES0PZx89GI=
 
-babel-preset-taro@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/babel-preset-taro/download/babel-preset-taro-3.2.14.tgz#b2c3704a00e006bb0d56b9a4f35db53bf0a2b35a"
-  integrity sha1-ssNwSgDgBrsNVrmk8121O/Cis1o=
+babel-preset-taro@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/babel-preset-taro/download/babel-preset-taro-3.2.15.tgz#4a2363a22b185b35aa3b0a14319282b377d05878"
+  integrity sha1-SiNjoisYWzWqOwoUMZKCs3fQWHg=
   dependencies:
     "@babel/plugin-proposal-class-properties" "7.10.4"
     "@babel/plugin-proposal-decorators" "7.10.5"
@@ -2907,13 +2907,13 @@ babel-preset-taro@3.2.14:
     "@babel/preset-react" "7.12.13"
     "@babel/preset-typescript" "7.12.17"
     "@babel/runtime" "^7.11.2"
-    "@tarojs/helper" "3.2.14"
-    "@tarojs/taro-h5" "3.2.14"
+    "@tarojs/helper" "3.2.15"
+    "@tarojs/taro-h5" "3.2.15"
     babel-plugin-dynamic-import-node "^2.3.3"
     babel-plugin-global-define "^1.0.3"
     babel-plugin-transform-imports-api "^1.0.0"
-    babel-plugin-transform-react-jsx-to-rn-stylesheet "3.2.14"
-    babel-plugin-transform-taroapi "3.2.14"
+    babel-plugin-transform-react-jsx-to-rn-stylesheet "3.2.15"
+    babel-plugin-transform-taroapi "3.2.15"
     core-js "^3.6.5"
     metro-react-native-babel-preset "^0.64.0"
     react-refresh "0.9.0"
@@ -3557,6 +3557,14 @@ chalk@3.0.0, chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
+chalk@4.1.1, chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.nlark.com/chalk/download/chalk-4.1.1.tgz?cache=0&sync_timestamp=1618995355917&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fchalk%2Fdownload%2Fchalk-4.1.1.tgz#c80b3fab28bf6371e6863325eee67e618b77e6ad"
+  integrity sha1-yAs/qyi/Y3HmhjMl7uZ+YYt35q0=
+  dependencies:
+    ansi-styles "^4.1.0"
+    supports-color "^7.1.0"
+
 chalk@^1.0.0, chalk@^1.1.1, chalk@^1.1.3:
   version "1.1.3"
   resolved "https://registry.nlark.com/chalk/download/chalk-1.1.3.tgz?cache=0&sync_timestamp=1618995355917&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fchalk%2Fdownload%2Fchalk-1.1.3.tgz#a8115c55e4a702fe4d150abd3872822a7e09fc98"
@@ -3576,14 +3584,6 @@ chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.3.1, chalk@^2.4.0, chalk@^2.4
     ansi-styles "^3.2.1"
     escape-string-regexp "^1.0.5"
     supports-color "^5.3.0"
-
-chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.nlark.com/chalk/download/chalk-4.1.1.tgz?cache=0&sync_timestamp=1618995355917&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fchalk%2Fdownload%2Fchalk-4.1.1.tgz#c80b3fab28bf6371e6863325eee67e618b77e6ad"
-  integrity sha1-yAs/qyi/Y3HmhjMl7uZ+YYt35q0=
-  dependencies:
-    ansi-styles "^4.1.0"
-    supports-color "^7.1.0"
 
 character-entities-legacy@^1.0.0:
   version "1.1.4"
@@ -5184,10 +5184,10 @@ escodegen@^1.11.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-taro@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/eslint-config-taro/download/eslint-config-taro-3.2.14.tgz#cf75e64a23b3d66f78f3092d335f60987141c556"
-  integrity sha1-z3XmSiOz1m948wktM19gmHFBxVY=
+eslint-config-taro@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/eslint-config-taro/download/eslint-config-taro-3.2.15.tgz?cache=0&sync_timestamp=1625647909517&other_urls=https%3A%2F%2Fregistry.nlark.com%2Feslint-config-taro%2Fdownload%2Feslint-config-taro-3.2.15.tgz#a7e63bf333448fb48dd3cbc89cdca060cec7c3b3"
+  integrity sha1-p+Y78zNEj7SN08vInNygYM7Hw7M=
   dependencies:
     "@typescript-eslint/parser" "^4.15.1"
     babel-eslint "^10.0.0"
@@ -5262,10 +5262,10 @@ eslint-plugin-react@^7.4.0:
     resolve "^2.0.0-next.3"
     string.prototype.matchall "^4.0.5"
 
-eslint-plugin-taro@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/eslint-plugin-taro/download/eslint-plugin-taro-3.2.14.tgz#bebb4ab514b00e3e28768a21dc0e9bf1a6da7488"
-  integrity sha1-vrtKtRSwDj4odooh3A6b8abadIg=
+eslint-plugin-taro@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/eslint-plugin-taro/download/eslint-plugin-taro-3.2.15.tgz?cache=0&sync_timestamp=1625647914574&other_urls=https%3A%2F%2Fregistry.nlark.com%2Feslint-plugin-taro%2Fdownload%2Feslint-plugin-taro-3.2.15.tgz#dbcb4979f122101df452d2558c809e093d3f6ad5"
+  integrity sha1-28tJefEiEB30UtJVjICeCT0/atU=
   dependencies:
     has "^1.0.1"
 
@@ -8943,6 +8943,11 @@ node-emoji@^1.0.3:
   dependencies:
     lodash.toarray "^4.4.0"
 
+node-fetch@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.nlark.com/node-fetch/download/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha1-BFvTI2Mfdu0uK1VXM5RBa2OaAFI=
+
 node-fetch@^1.0.1:
   version "1.7.3"
   resolved "https://registry.nlark.com/node-fetch/download/node-fetch-1.7.3.tgz#980f6f72d85211a5347c6b2bc18c5b84c3eb47ef"
@@ -9992,10 +9997,10 @@ postcss-modules-values@^3.0.0:
     icss-utils "^4.0.0"
     postcss "^7.0.6"
 
-postcss-plugin-constparse@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/postcss-plugin-constparse/download/postcss-plugin-constparse-3.2.14.tgz#6f3f0bb051050bdce022d36be6eccec599027644"
-  integrity sha1-bz8LsFEFC9zgItNr5uzOxZkCdkQ=
+postcss-plugin-constparse@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/postcss-plugin-constparse/download/postcss-plugin-constparse-3.2.15.tgz?cache=0&sync_timestamp=1625647951372&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fpostcss-plugin-constparse%2Fdownload%2Fpostcss-plugin-constparse-3.2.15.tgz#4c1bbf5e6b77d37e1abaf97028f388cd21f9f38a"
+  integrity sha1-TBu/Xmt3034auvlwKPOIzSH584o=
   dependencies:
     postcss "^6.0.22"
 
@@ -10007,10 +10012,10 @@ postcss-pxtorem@^4.0.1:
     object-assign "^4.1.0"
     postcss "^5.2.10"
 
-postcss-pxtransform@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/postcss-pxtransform/download/postcss-pxtransform-3.2.14.tgz#274a5fc2aff5c766bf0ed739e9be112899c9cc88"
-  integrity sha1-J0pfwq/1x2a/Dtc56b4RKJnJzIg=
+postcss-pxtransform@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/postcss-pxtransform/download/postcss-pxtransform-3.2.15.tgz?cache=0&sync_timestamp=1625647953412&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fpostcss-pxtransform%2Fdownload%2Fpostcss-pxtransform-3.2.15.tgz#33751329b3bd57929ebd55bf3a1c0b5a778a5312"
+  integrity sha1-M3UTKbO9V5KevVW/OhwLWneKUxI=
   dependencies:
     postcss "^6.0.16"
     postcss-pxtorem "^4.0.1"
@@ -12172,10 +12177,10 @@ tar@^6.0.2:
     mkdirp "^1.0.3"
     yallist "^4.0.0"
 
-taro-css-to-react-native@3.2.14:
-  version "3.2.14"
-  resolved "https://registry.nlark.com/taro-css-to-react-native/download/taro-css-to-react-native-3.2.14.tgz#f666fa0990b5262a190d81285cf1adfbb4d4d002"
-  integrity sha1-9mb6CZC1JioZDYEoXPGt+7TU0AI=
+taro-css-to-react-native@3.2.15:
+  version "3.2.15"
+  resolved "https://registry.nlark.com/taro-css-to-react-native/download/taro-css-to-react-native-3.2.15.tgz?cache=0&sync_timestamp=1625647904442&other_urls=https%3A%2F%2Fregistry.nlark.com%2Ftaro-css-to-react-native%2Fdownload%2Ftaro-css-to-react-native-3.2.15.tgz#30116ced8859ecca9696292018f6e38426689a25"
+  integrity sha1-MBFs7YhZ7MqWlikgGPbjhCZomiU=
   dependencies:
     camelize "^1.0.0"
     css "^2.2.4"
